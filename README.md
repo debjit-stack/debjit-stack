@@ -93,6 +93,15 @@ I'm a passionate full-stack developer with a keen interest in **AI-powered appli
 > 
 > `JavaScript` `Library Management` `Full-stack`
 
+---
+### 🧑‍🍳 [AI Recipe Remixer](https://github.com/debjit-stack/airecipe)
+
+> **Generative AI-powered recipe creation**
+>
+> Transform leftover ingredients into unique recipes with text and image generation, secure user accounts, and personalized recipe storage.
+>
+> `JavaScript` `React` `Node.js` `AI` `MERN Stack`
+
 </div>
 
 ---
@@ -130,7 +139,7 @@ const currentlyWorking = {
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debjit-ghosh007)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/debjitg0)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)]()
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://debjit.vercel.app/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deb.sh02@gmail.com)
 
 </div>
